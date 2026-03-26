@@ -26,9 +26,9 @@ profit analysis in real business environments.
 ## 🛠️ Skills
 
 
-| Power BI (DAX, Power Query, Dashboards) | 
-| Excel (Advanced formulas, Pivot Tables) | 
-| SQL Server (T-SQL) | 
+| Power BI (DAX, Power Query, Dashboards) 
+| Excel (Advanced formulas, Pivot Tables) 
+| SQL Server (T-SQL) 
 | Python (pandas, numpy)  Basic |
 
 ---
