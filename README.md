@@ -29,7 +29,7 @@ profit analysis in real business environments.
 | Power BI (DAX, Power Query, Dashboards) 
 | Excel (Advanced formulas, Pivot Tables) 
 | SQL Server (T-SQL) 
-| Python (pandas, numpy)  Basic |
+| Python (pandas, numpy) Basic |
 
 ---
 
